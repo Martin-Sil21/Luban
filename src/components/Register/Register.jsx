@@ -4,6 +4,7 @@ const Register = function () {
 
     return <div className="register">
         Hola soy Register
+     
     </div>
 
 }
